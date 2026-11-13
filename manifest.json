@@ -1,0 +1,15 @@
+{
+  "name": "Slimzol — official price, label facts and order",
+  "short_name": "Slimzol",
+  "description": "Independent Slimzol page: what the label says, the federal rules on weight-loss claims, official prices and the 60-day refund.",
+  "lang": "en-US",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7fafc",
+  "theme_color": "#f7fafc",
+  "icons": [
+    { "src": "/images/favicon.png", "sizes": "any", "type": "image/png", "purpose": "any" }
+  ]
+}
